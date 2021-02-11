@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    background-color: #d3e0ea;
+}
+
+button {
+    width: 100%;
+    font-size: 150%;
+    color: black;
+    background-color: #f4f9f9;
+
+}
+
+.ac{
+    color: red;
+}
